@@ -6,7 +6,7 @@
 
 &#x20; &#x20;
 
-[**🤖 Try Bot**](https://t.me/THE_ULTIMATE_SONGS_DOWNLOAD_BOT) • [**🌐 Website**](https://the-ultimate-songs-downloader-bot-harsh-patel.vercel.app) • [**📸 Instagram**](https://instagram.com/patelharsh.in) • [**💻 GitHub**](https://github.com/patelharsh80874)
+[**🤖 Try Bot**](https://t.me/THE_ULTIMATE_SONGS_DOWNLOAD_BOT) • [**🌐 Website**](https://the-ultimate-songs-downloader-bot.vercel.app) • [**📸 Instagram**](https://instagram.com/patelharsh.in) • [**💻 GitHub**](https://github.com/patelharsh80874)
 
 ---
 
